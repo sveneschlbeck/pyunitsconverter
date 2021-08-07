@@ -8,7 +8,7 @@ this_directory = path.abspath(path.dirname(__file__))
 with open(path.join(this_directory, 'README.md'), encoding='utf-8') as f:
 	long_description = f.read()
 
-VERSION = '0.0.1'
+VERSION = '0.0.2'
 DESCRIPTION = 'Converting units'
 
 # Setting up
@@ -22,7 +22,7 @@ setup(
     long_description_content_type='text/markdown',
     packages=find_packages(),
     install_requires=[],
-    keywords=['python', 'units', 'scientific', 'metric', 'physics', 'siunits', 'converting', 'unitconverter'],
+    keywords=['python', 'units', 'scientific', 'metric', 'physics', 'siunits', 'converting', 'unitsconverter'],
     classifiers=[
         "Development Status :: 3 - Alpha",
         "Intended Audience :: Developers",
