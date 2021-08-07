@@ -1,0 +1,17 @@
+Metadata-Version: 1.1
+Name: pyunitconverter
+Version: 0.0.1
+Summary: Converting units
+Home-page: UNKNOWN
+Author: Sven Eschlbeck
+Author-email: <sven.eschlbeck@t-online.de>
+License: UNKNOWN
+Description: UNKNOWN
+Keywords: python,units,scientific,metric,physics,siunits,converting,unitconverter
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
