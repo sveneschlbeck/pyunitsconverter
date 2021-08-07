@@ -8,12 +8,12 @@ this_directory = path.abspath(path.dirname(__file__))
 with open(path.join(this_directory, 'README.md'), encoding='utf-8') as f:
 	long_description = f.read()
 
-VERSION = '0.1.0'
+VERSION = '0.0.1'
 DESCRIPTION = 'Converting units'
 
 # Setting up
 setup(
-    name="pyunitconverter",
+    name="pyunitsconverter",
     version=VERSION,
     author="Sven Eschlbeck",
     author_email="<sven.eschlbeck@t-online.de>",

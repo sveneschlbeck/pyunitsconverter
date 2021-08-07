@@ -1,4 +1,4 @@
-# **pyunitconverter**
+# **pyunitsconverter**
 A package for easy unit conversions
 
 *****
@@ -9,9 +9,9 @@ A python package for STEM students and scientific developers, aiming for easy an
 
 ## Installation
 
-Use ``pip`` to install ``pyunitconverter`` by typing or copying the following command.
+Use ``pip`` to install ``pyunitsconverter`` by typing or copying the following command.
 ```python
-pip install pyunitconverter
+pip install pyunitsconverter
 ```
 
 ## License

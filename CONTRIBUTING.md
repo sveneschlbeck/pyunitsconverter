@@ -1,4 +1,4 @@
-# Contributing to ``pyunitconverter``
+# Contributing to ``pyunitsconverter``
 
 I appreciate your ideas and your input! I try to make contributing to this project as easy and transparent as possible, whether it's:
 
