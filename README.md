@@ -2,9 +2,9 @@
 A package for easy unit conversions
 
 *****
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/sveneschlbeck/pyunitsconverter)  
-![PyPI](https://img.shields.io/pypi/v/pyunitsconverter)  
-![PyPI - Status](https://img.shields.io/pypi/status/pyunitsconverter)  
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/sveneschlbeck/pyunitsconverter)
+![PyPI](https://img.shields.io/pypi/v/pyunitsconverter)
+![PyPI - Status](https://img.shields.io/pypi/status/pyunitsconverter)
 *****
 
 ## Project description
