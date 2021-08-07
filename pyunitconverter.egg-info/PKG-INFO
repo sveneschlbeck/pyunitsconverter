@@ -1,12 +1,11 @@
-Metadata-Version: 1.1
+Metadata-Version: 2.1
 Name: pyunitconverter
-Version: 0.0.1
+Version: 0.1.0
 Summary: Converting units
 Home-page: UNKNOWN
 Author: Sven Eschlbeck
 Author-email: <sven.eschlbeck@t-online.de>
 License: UNKNOWN
-Description: UNKNOWN
 Keywords: python,units,scientific,metric,physics,siunits,converting,unitconverter
 Platform: UNKNOWN
 Classifier: Development Status :: 3 - Alpha
@@ -15,3 +14,9 @@ Classifier: Programming Language :: Python :: 3
 Classifier: Operating System :: Unix
 Classifier: Operating System :: MacOS :: MacOS X
 Classifier: Operating System :: Microsoft :: Windows
+Description-Content-Type: text/markdown
+
+# pyunitconverter
+A package for easy unit conversions
+
+
