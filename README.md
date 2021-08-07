@@ -5,6 +5,8 @@ A package for easy unit conversions
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/sveneschlbeck/pyunitsconverter)
 ![PyPI](https://img.shields.io/pypi/v/pyunitsconverter)
 ![PyPI - Status](https://img.shields.io/pypi/status/pyunitsconverter)
+![GitHub top language](https://img.shields.io/github/languages/top/sveneschlbeck/pyunitsconverter)
+![GitHub](https://img.shields.io/github/license/sveneschlbeck/pyunitsconverter)
 *****
 
 ## Project description
