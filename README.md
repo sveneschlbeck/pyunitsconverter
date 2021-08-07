@@ -48,7 +48,7 @@ All of these units of one class can be converted into each other with the follow
 ```
 ## Example usage
 
-To convert units, you first need to import the relevant module and/or function. In the following example, we want to convert a length in kilometers into a length in miles.
+To convert units, you first need to import the relevant module and/or function. In the following example, we want to convert a length in kilometers into a length in miles. Make sure that you are in the installation directory when executing ``python``.
 ```python
 from length import *
 ```
