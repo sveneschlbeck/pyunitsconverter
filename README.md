@@ -50,3 +50,8 @@ Now, we can convert the number.
 ```python
 kilometers_to_miles(100)
 ```
+
+## Source code & further information
+
+The source code is maintained at https://github.com/sveneschlbeck/pyunitconverter  
+There are also further information concerning the MIT license model, contributing guidelines and more...
