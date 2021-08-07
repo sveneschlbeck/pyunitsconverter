@@ -54,7 +54,7 @@ from length import *
 ```
 Now, we can convert the number.
 ```python
-kilometers_to_miles(100)
+kilometer_to_mile(100)
 ```
 
 ## Source code & further information
