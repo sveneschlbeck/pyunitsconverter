@@ -1,4 +1,4 @@
-LICENSE
+LICENSE.txt
 README.md
 setup.py
 pyunitsconverter/__init__.py
