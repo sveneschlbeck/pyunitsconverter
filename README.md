@@ -9,7 +9,7 @@
 
 [![pyunitsconverter logo](logo.png)](https://pypi.org/project/pyunitsconverter/)
 
-## Project description
+## Project Description
 
 A python package for STEM students and scientific developers, aiming for easy and intuitive conversions of commonly used metric and non-metric units.
 
@@ -24,7 +24,7 @@ pip install pyunitsconverter
 
 This package is licensed under ``BSD Clause 3``.
 
-## Example usage
+## Example Usage
 
 Users of the package can import the individual modules from this package, for example:
 ```python
@@ -95,7 +95,7 @@ After importing the required module, all of these units of one class can be conv
 <first_unit>_to_<second_unit>(<number>)
 ```
 
-## Source code & further information
+## Source Code & Further Information
 
 The source code is maintained at https://github.com/sveneschlbeck/quick_eda  
 There are also further information concerning the BSD license model, contributing guidelines and more...
