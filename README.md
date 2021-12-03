@@ -7,7 +7,7 @@
 *****
 
 <p align="center">
-  <img src="https://github.com/sveneschlbeck/pyunitsconverter/blob/main/logo.png">
+  <img src="https://github.com/sveneschlbeck/pyunitsconverter/blob/main/logo.png" href="https://pypi.org/project/pyunitsconverter/">
 </p>
 
 ## Project description
