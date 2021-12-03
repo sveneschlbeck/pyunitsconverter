@@ -1,12 +1,12 @@
-# **pyunitsconverter**
-A package for easy unit conversions
-
 *****
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/sveneschlbeck/pyunitsconverter)
 ![GitHub top language](https://img.shields.io/github/languages/top/sveneschlbeck/pyunitsconverter)
 ![GitHub](https://img.shields.io/github/license/sveneschlbeck/pyunitsconverter)
 ![PyPI](https://img.shields.io/pypi/v/pyunitsconverter)
+![Wheel](https://img.shields.io/pypi/wheel/pyunitsconverter)
 *****
+
+[![pyunitsconverter logo](logo.png)](https://pypi.org/project/pyunitsconverter/)
 
 ## Project description
 
