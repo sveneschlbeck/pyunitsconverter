@@ -5,9 +5,7 @@
 ![PyPI](https://img.shields.io/pypi/v/pyunitsconverter)
 ![Wheel](https://img.shields.io/pypi/wheel/pyunitsconverter)
 *****
-
 [![pyunitsconverter logo](logo.png)](https://pypi.org/project/pyunitsconverter/)
-
 ## Project description
 
 A python package for STEM students and scientific developers, aiming for easy and intuitive conversions of commonly used metric and non-metric units.
