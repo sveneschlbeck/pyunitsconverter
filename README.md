@@ -6,8 +6,8 @@
 ![Wheel](https://img.shields.io/pypi/wheel/pyunitsconverter)
 *****
 
-<p align="center">
-  <img src="https://github.com/sveneschlbeck/pyunitsconverter/blob/main/logo.png" href="https://pypi.org/project/pyunitsconverter/">
+<p align="center"> href="https://pypi.org/project/pyunitsconverter/"
+  <img src="https://github.com/sveneschlbeck/pyunitsconverter/blob/main/logo.png">
 </p>
 
 ## Project description
