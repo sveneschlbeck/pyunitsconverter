@@ -6,7 +6,7 @@
 ![Wheel](https://img.shields.io/pypi/wheel/pyunitsconverter)
 *****
 
-[![pyunitsconverter logo](logo.png)](https://pypi.org/project/pyunitsconverter/)
+[![pyunitsconverter logo](logo.png | width=100)](https://pypi.org/project/pyunitsconverter/)
 
 ## Project description
 
