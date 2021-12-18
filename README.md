@@ -9,8 +9,6 @@
 
 [![pyunitsconverter logo](logo.png)](https://pypi.org/project/pyunitsconverter/)
 
-## Project Description
-
 A python package for STEM students and scientific developers, aiming for easy and intuitive conversions of commonly used metric and non-metric units.
 
 ## Installation
