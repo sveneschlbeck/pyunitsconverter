@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
  name='pyunitsconverter',
- version='0.1.3',
+ version='0.1.4',
  author='Sven Eschlbeck',
  author_email='sven.eschlbeck@t-online.de',
  packages=['pyunitsconverter'],

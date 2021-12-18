@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: pyunitsconverter
-Version: 0.1.3
+Version: 0.1.4
 Summary: A package for easy unit conversions
 Home-page: http://pypi.python.org/pypi/pyunitsconverter/
 Author: Sven Eschlbeck
@@ -10,17 +10,16 @@ Platform: UNKNOWN
 Description-Content-Type: text/markdown
 License-File: LICENSE.txt
 
-# **pyunitsconverter**
-A package for easy unit conversions
-
 *****
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/sveneschlbeck/pyunitsconverter)
 ![GitHub top language](https://img.shields.io/github/languages/top/sveneschlbeck/pyunitsconverter)
 ![GitHub](https://img.shields.io/github/license/sveneschlbeck/pyunitsconverter)
 ![PyPI](https://img.shields.io/pypi/v/pyunitsconverter)
+![Wheel](https://img.shields.io/pypi/wheel/pyunitsconverter)
+![Language](https://img.shields.io/pypi/implementation/pyunitsconverter)
 *****
 
-## Project description
+[![pyunitsconverter logo](logo.png)](https://pypi.org/project/pyunitsconverter/)
 
 A python package for STEM students and scientific developers, aiming for easy and intuitive conversions of commonly used metric and non-metric units.
 
@@ -35,7 +34,7 @@ pip install pyunitsconverter
 
 This package is licensed under ``BSD Clause 3``.
 
-## Example usage
+## Example Usage
 
 Users of the package can import the individual modules from this package, for example:
 ```python
@@ -106,9 +105,9 @@ After importing the required module, all of these units of one class can be conv
 <first_unit>_to_<second_unit>(<number>)
 ```
 
-## Source code & further information
+## Source Code & Further Information
 
 The source code is maintained at https://github.com/sveneschlbeck/quick_eda  
-There are also further information concerning the BSD license model, contributing guidelines and more...
+There are also further information concerning the BSD license model and more...
 
 
